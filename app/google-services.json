@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "989329732691",
+    "firebase_url": "https://myfirebaseauthapp-90951.firebaseio.com",
+    "project_id": "myfirebaseauthapp-90951",
+    "storage_bucket": "myfirebaseauthapp-90951.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989329732691:android:de65c94b6d8f91ec",
+        "android_client_info": {
+          "package_name": "com.example.mdi.firebaseauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989329732691-lhjrbkl484m7164gao9pl0qgv6h3alro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAldUod7bSQTI8uGvnxe2v0TL-DTxin7P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989329732691-lhjrbkl484m7164gao9pl0qgv6h3alro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
